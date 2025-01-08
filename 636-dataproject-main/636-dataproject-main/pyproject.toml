@@ -1,0 +1,14 @@
+[project]
+name = "636-dataproject"
+version = "0.1.0"
+description = "Options earnings model."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pandas",
+    "beautifulsoup4",
+    "praw",
+    "textblob",
+    "selenium",
+    "ruff>=0.7.2",
+]
